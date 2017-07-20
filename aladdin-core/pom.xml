@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.tabchanj</groupId>
-		<artifactId>pangu</artifactId>
+		<artifactId>aladdin</artifactId>
 		<version>1.0</version>
 	</parent>
-	<artifactId>pangu-core</artifactId>
+	<artifactId>aladdin-core</artifactId>
 	<version>1.0</version>
-	<name>pangu-core</name>
+	<name>aladdin-core</name>
 	<url>http://maven.apache.org</url>
 	<packaging>jar</packaging>
 	<properties>

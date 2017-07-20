@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.tabchanj</groupId>
-		<artifactId>pangu</artifactId>
+		<artifactId>aladdin</artifactId>
 		<version>1.0</version>
 	</parent>
 	<groupId>org.tabchanj</groupId>
-	<artifactId>pangu-manager</artifactId>
+	<artifactId>aladdin-manager</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>pangu-manager Maven Webapp</name>
@@ -17,14 +17,14 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.tabchanj</groupId>
-			<artifactId>pangu-core</artifactId>
+			<artifactId>aladdin-core</artifactId>
 			<version>1.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.7.RELEASE</version>
+			<version>${spring.version}</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
 		<dependency>
@@ -34,6 +34,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>pangu-manager</finalName>
+		<finalName>aladdin-manager</finalName>
 	</build>
 </project>

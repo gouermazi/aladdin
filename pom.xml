@@ -7,8 +7,8 @@
 	<version>1.0</version>
 	<packaging>pom</packaging>
 
-	<name>a</name>
-	<url>http://maven.apache.org</url>
+	<name>aladdin</name>
+	<url>http://tabchanj.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -50,6 +50,6 @@
 	<modules>
 		<module>aladdin-crawler</module>
 		<module>aladdin-core</module>
-    <module>aladdin-manager</module>
+    	<module>aladdin-manager</module>
   </modules>
 </project>
