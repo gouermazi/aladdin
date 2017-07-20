@@ -1,2 +1,2 @@
-# pangu
+# aladdin
 self improve
