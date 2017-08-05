@@ -1,4 +1,3 @@
-org\tabchanj\pangu\service\impl\UserServiceImpl.class
 org\tabchanj\pangu\mapper\UserMapper.class
 org\tabchanj\pangu\service\IUserService.class
 org\tabchanj\pangu\domain\User.class

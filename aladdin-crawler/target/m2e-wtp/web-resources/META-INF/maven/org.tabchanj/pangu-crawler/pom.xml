@@ -5,22 +5,22 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.tabchanj</groupId>
-		<artifactId>pangu</artifactId>
+		<artifactId>aladdin</artifactId>
 		<version>1.0</version>
 	</parent>
 	<artifactId>pangu-crawler</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>pangu-crawler</name>
+	<name>aladdin-crawler</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
 			<groupId>org.tabchanj</groupId>
-			<artifactId>pangu-core</artifactId>
+			<artifactId>aladdin-core</artifactId>
 			<version>1.0</version>
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>pangu-crawler</finalName>
+		<finalName>aladdin-crawler</finalName>
 	</build>
 </project>

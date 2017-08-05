@@ -1,4 +1,4 @@
-package org.tabchanj.pangu.controller.impl;
+package org.tabchanj.aladdin.controller.impl;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

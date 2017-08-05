@@ -1,9 +1,8 @@
-package org.tabchanj.pangu.mapper;
+package org.tabchanj.aladdin.mapper;
 
 import java.util.List;
 
-import org.tabchanj.pangu.domain.PicUrl;
-import org.tabchanj.pangu.domain.User;
+import org.tabchanj.aladdin.domain.PicUrl;
 
 public interface PicUrlMapper {
 	PicUrl get(int id);

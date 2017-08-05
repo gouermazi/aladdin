@@ -10,12 +10,12 @@
 
 	<context:property-placeholder
 		ignore-unresolvable="true" location="classpath:*.properties" />
-	<context:component-scan base-package="org.tabchanj.pangu.crawler.*" />
+	<context:component-scan base-package="org.tabchanj.aladdin.crawler.*" />
 	<context:component-scan base-package="org.tabchanj.*" >
 	<context:exclude-filter type="annotation" 
 			expression="org.springframework.stereotype.Controller"/>
 	</context:component-scan>
-	<mybatis:scan base-package="org.tabchanj.pangu.mapper" />
+	<mybatis:scan base-package="org.tabchanj.aladdin.mapper" />
 
 	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource"
 		destroy-method="close">
@@ -32,7 +32,7 @@
 		<property name="dataSource" ref="dataSource" />
 		<!-- <property name="configLocation" value="classpath:mybatis-config.xml"/> -->
 		<!-- <property name="mapperLocations" value="org/tab/chanj/mapper/*.xml"/> -->
-		<property name="typeAliasesPackage" value="org.tabchanj.pangu.domain" />
+		<property name="typeAliasesPackage" value="org.tabchanj.aladdin.domain" />
 	</bean>
 
 </beans>

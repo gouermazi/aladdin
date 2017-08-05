@@ -1,7 +1,7 @@
-package org.tabchanj.pangu.controller;
+package org.tabchanj.aladdin.controller;
 
-import org.tabchanj.pangu.crawler.MyWebCrawler;
-import org.tabchanj.pangu.util.common.ResourceUtil;
+import org.tabchanj.aladdin.crawler.MyWebCrawler;
+import org.tabchanj.aladdin.util.common.ResourceUtil;
 
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;

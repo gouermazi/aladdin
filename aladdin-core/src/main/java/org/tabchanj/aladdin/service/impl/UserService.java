@@ -1,12 +1,12 @@
-package org.tabchanj.pangu.service.impl;
+package org.tabchanj.aladdin.service.impl;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.tabchanj.pangu.domain.User;
-import org.tabchanj.pangu.mapper.UserMapper;
-import org.tabchanj.pangu.service.IUserService;
+import org.tabchanj.aladdin.domain.User;
+import org.tabchanj.aladdin.mapper.UserMapper;
+import org.tabchanj.aladdin.service.IUserService;
 
 @Service
 public class UserService implements IUserService  {

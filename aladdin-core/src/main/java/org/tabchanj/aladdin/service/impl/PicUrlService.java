@@ -1,13 +1,12 @@
-package org.tabchanj.pangu.service.impl;
+package org.tabchanj.aladdin.service.impl;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.tabchanj.pangu.domain.PicUrl;
-import org.tabchanj.pangu.domain.User;
-import org.tabchanj.pangu.mapper.PicUrlMapper;
-import org.tabchanj.pangu.service.IPicUrlService;
+import org.tabchanj.aladdin.domain.PicUrl;
+import org.tabchanj.aladdin.mapper.PicUrlMapper;
+import org.tabchanj.aladdin.service.IPicUrlService;
 
 @Service
 public class PicUrlService implements IPicUrlService {

@@ -1,4 +1,9 @@
-E:\AfterWork\pangu\pangu-core\src\main\java\org\tabchanj\pangu\service\impl\UserServiceImpl.java
-E:\AfterWork\pangu\pangu-core\src\main\java\org\tabchanj\pangu\domain\User.java
-E:\AfterWork\pangu\pangu-core\src\main\java\org\tabchanj\pangu\mapper\UserMapper.java
-E:\AfterWork\pangu\pangu-core\src\main\java\org\tabchanj\pangu\service\IUserService.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\service\IUserService.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\mapper\UserMapper.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\service\IPicUrlService.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\domain\PicUrl.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\mapper\PicUrlMapper.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\service\impl\UserService.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\service\impl\PicUrlService.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\domain\User.java
+D:\Work\project\out_work\wkspace_aladdin\aladdin\aladdin-core\src\main\java\org\tabchanj\pangu\util\common\ResourceUtil.java

@@ -2,7 +2,6 @@ package test;
 
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
-import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -30,10 +29,10 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import org.tabchanj.pangu.crawler.MyWebCrawler;
-import org.tabchanj.pangu.domain.PicUrl;
-import org.tabchanj.pangu.service.IPicUrlService;
-import org.tabchanj.pangu.util.common.ResourceUtil;
+import org.tabchanj.aladdin.crawler.MyWebCrawler;
+import org.tabchanj.aladdin.domain.PicUrl;
+import org.tabchanj.aladdin.service.IPicUrlService;
+import org.tabchanj.aladdin.util.common.ResourceUtil;
 
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;

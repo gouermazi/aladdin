@@ -1,12 +1,12 @@
-package org.tabchanj.pangu.util.common;
+package org.tabchanj.aladdin.util.common;
+
+import org.springframework.util.StringUtils;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
-
-import org.springframework.util.StringUtils;
 
 public class ResourceUtil {
 	public static Integer getInt(String propertiesFileName, String key) throws IOException {

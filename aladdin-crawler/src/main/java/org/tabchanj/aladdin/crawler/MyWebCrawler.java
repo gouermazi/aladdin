@@ -1,4 +1,4 @@
-package org.tabchanj.pangu.crawler;
+package org.tabchanj.aladdin.crawler;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -18,10 +18,9 @@ import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
-import org.tabchanj.pangu.domain.PicUrl;
-import org.tabchanj.pangu.service.IPicUrlService;
-import org.tabchanj.pangu.service.impl.PicUrlService;
-import org.tabchanj.pangu.util.common.ResourceUtil;
+import org.tabchanj.aladdin.domain.PicUrl;
+import org.tabchanj.aladdin.service.impl.PicUrlService;
+import org.tabchanj.aladdin.util.common.ResourceUtil;
 
 import edu.uci.ics.crawler4j.crawler.Page;
 import edu.uci.ics.crawler4j.crawler.WebCrawler;

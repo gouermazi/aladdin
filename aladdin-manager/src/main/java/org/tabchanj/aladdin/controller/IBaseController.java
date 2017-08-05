@@ -1,4 +1,4 @@
-package org.tabchanj.pangu.controller;
+package org.tabchanj.aladdin.controller;
 
 
 public interface IBaseController {

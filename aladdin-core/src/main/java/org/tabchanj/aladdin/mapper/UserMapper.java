@@ -1,6 +1,6 @@
-package org.tabchanj.pangu.mapper;
+package org.tabchanj.aladdin.mapper;
 
-import org.tabchanj.pangu.domain.User;
+import org.tabchanj.aladdin.domain.User;
 
 public interface UserMapper {
 	User get(int uid);

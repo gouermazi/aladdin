@@ -1,4 +1,4 @@
-package org.tabchanj.pangu.domain;
+package org.tabchanj.aladdin.domain;
 
 public class PicUrl {
 	private int id;
