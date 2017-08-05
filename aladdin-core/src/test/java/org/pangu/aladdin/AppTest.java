@@ -1,4 +1,4 @@
-package org.pangu.pangu;
+package org.pangu.aladdin;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
