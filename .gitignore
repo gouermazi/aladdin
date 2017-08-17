@@ -25,3 +25,5 @@ hs_err_pid*
 .classpath
 .project
 .settings/**aladdin-core/target/aladdin-core-1.0.jar aladdin-core/target/classes aladdin-core/target/generated-sources aladdin-core/target/generated-test-sources aladdin-core/target/maven-archiver aladdin-core/target/maven-status aladdin-core/target/test-classes aladdin-crawler/target/aladdin-crawler aladdin-crawler/target/aladdin-crawler.war aladdin-crawler/target/classes aladdin-crawler/target/generated-sources aladdin-crawler/target/generated-test-sources aladdin-crawler/target/maven-archiver aladdin-crawler/target/maven-status aladdin-crawler/target/test-classes aladdin-manager/target/aladdin-manager aladdin-manager/target/aladdin-manager.war aladdin-manager/target/classes aladdin-manager/target/generated-sources aladdin-manager/target/generated-test-sources aladdin-manager/target/maven-archiver aladdin-manager/target/maven-status aladdin-manager/target/test-classes
+.settings
+/target/
